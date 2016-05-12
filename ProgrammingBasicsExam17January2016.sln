@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 01 - Cake Tycoon", "ProgrammingBasicsExam17January2016\Problem 01 - Cake Tycoon.csproj", "{0658526A-449E-4D5D-ABB8-553BA0985584}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem_01_Cake_Tycoon", "Problem_01_Cake_Tycoon\Problem01_Cake Tycoon.csproj", "{0658526A-449E-4D5D-ABB8-553BA0985584}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 02 - Beer Stock", "Problem 02 - Beer Stock\Problem 02 - Beer Stock.csproj", "{959FE9D7-3441-45DF-8F3C-BD5ECA95B557}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem_02_Beer_Stock", "Problem_02_Beer_Stock\Problem02_Beer Stock.csproj", "{959FE9D7-3441-45DF-8F3C-BD5ECA95B557}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
