@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgrammingBasicsExam17January2016", "ProgrammingBasicsExam17January2016\ProgrammingBasicsExam17January2016.csproj", "{0658526A-449E-4D5D-ABB8-553BA0985584}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 01 - Cake Tycoon", "ProgrammingBasicsExam17January2016\Problem 01 - Cake Tycoon.csproj", "{0658526A-449E-4D5D-ABB8-553BA0985584}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 02 - Beer Stock", "Problem 02 - Beer Stock\Problem 02 - Beer Stock.csproj", "{959FE9D7-3441-45DF-8F3C-BD5ECA95B557}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{0658526A-449E-4D5D-ABB8-553BA0985584}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0658526A-449E-4D5D-ABB8-553BA0985584}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0658526A-449E-4D5D-ABB8-553BA0985584}.Release|Any CPU.Build.0 = Release|Any CPU
+		{959FE9D7-3441-45DF-8F3C-BD5ECA95B557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{959FE9D7-3441-45DF-8F3C-BD5ECA95B557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{959FE9D7-3441-45DF-8F3C-BD5ECA95B557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{959FE9D7-3441-45DF-8F3C-BD5ECA95B557}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
